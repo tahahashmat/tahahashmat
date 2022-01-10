@@ -5,7 +5,7 @@ static void helloWorld() {
     String occupation = "4th Year Student";
     String program = "Software Engineering";
     
-    System.out.println(name + age + occupation + program);
+    System.out.println(name + age + occupation + program + ":)");
     
   }
 
