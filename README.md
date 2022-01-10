@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**tahahashmat/tahahashmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+public class Main {
+  static void helloWorld() {
+  
+    String name = "Taha Hashmat";
+    int age = 21;
+    String occupation = "4th Year Student";
+    String program = "Software Engineering";
+    
+    System.out.println(name + age + occupation + program);
+    
+  }
+}
