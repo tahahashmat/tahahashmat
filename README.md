@@ -1,5 +1,4 @@
-public class Main {
-  static void helloWorld() {
+static void helloWorld() {
   
     String name = "Taha Hashmat";
     int age = 21;
@@ -9,4 +8,4 @@ public class Main {
     System.out.println(name + age + occupation + program);
     
   }
-}
+
