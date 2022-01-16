@@ -1,4 +1,4 @@
-**Hi there, I'm Taha 👋. This ReadMe is meant to help you in getting to know me better 😊**
+**Hi there, I'm Taha 👋. This ReadMe is meant to help you getting to know me better!**
 
   
     static void helloWorld{
