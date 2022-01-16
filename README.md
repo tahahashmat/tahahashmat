@@ -1,5 +1,4 @@
-Hey there! Here is a little infromation to get to know me better! :)
-
+Hi there, I'm Taha 👋. Here is a little information to get to know me better :)
 {
   
     String name = "Taha Hashmat ";
