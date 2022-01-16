@@ -13,7 +13,7 @@ Hi there, I'm Taha 👋. Here is a little information to get to know me better :
 
 Here are my Github Statistics!
 
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahahashmat)](https://github.com/tahahashmat/tahahashmat) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahahashmat)](https://github.com/anuraghazra/tahahashmat)
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahahashmat&show_icons=true&theme=radical)](https://github.com/tahahashmat/tahahashmat) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahahashmat&show_icons=true&theme=radical)](https://github.com/anuraghazra/tahahashmat)
 
 
