@@ -7,8 +7,11 @@
     int age = 21;
     String occupation = " 4th Year Student ";
     String program = "Software Engineering ";
+    String fav_language = "Java";
+    String fav_sport = "Soccer";
+    String fun_fact = "I can accurately name ~ 90% of flags worldwide!"
     
-    System.out.println(name + age + occupation + program);
+    System.out.println(name + age + occupation + program + fav_language + fav_sport + fun_fact);
     
     }
     
