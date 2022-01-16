@@ -1,7 +1,7 @@
 **Hi there, I'm Taha 👋. This ReadMe is meant to help you in getting to know me better 😊**
 
   
-    {
+    static void helloWorld{
     String name = "Taha Hashmat ";
     int age = 21;
     String occupation = " 4th Year Student ";
