@@ -1,4 +1,4 @@
-**Hi there, I'm Taha 👋. This ReadMe is meant to help you in getting to know me better :)**
+**Hi there, I'm Taha 👋. This ReadMe is meant to help you in getting to know me better 😊**
 {
   
     String name = "Taha Hashmat ";
@@ -6,7 +6,7 @@
     String occupation = " 4th Year Student ";
     String program = "Software Engineering ";
     
-    System.out.println(name + age + occupation + program + ":)");
+    System.out.println(name + age + occupation + program);
     
   }
   
