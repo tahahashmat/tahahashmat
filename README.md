@@ -10,3 +10,6 @@ static void helloWorld() {
   }
 
 [![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahahashmat)](https://github.com/tahahashmat/tahahashmat)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahahashmat)](https://github.com/anuraghazra/tahahashmat)
+
