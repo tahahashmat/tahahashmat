@@ -9,7 +9,7 @@
     String program = "Software Engineering ";
     String fav_language = "Java";
     String fav_sport = "Soccer";
-    String fun_fact = "I can accurately name ~ 90% of flags worldwide!"
+    String fun_fact = "I can accurately name ~ 85% of flags worldwide!"
     
     System.out.println(name + age + occupation + program + fav_language + fav_sport + fun_fact);
     
