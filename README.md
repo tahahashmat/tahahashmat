@@ -5,7 +5,7 @@
     
     String name = "Taha Hashmat ";
     int age = 21;
-    String occupation = " New Graduate '2022! ";
+    String occupation = "New Graduate '2022! ";
     String program = "Software Engineering ";
     String fav_language = "Java";
     String fav_sport = "Soccer";
