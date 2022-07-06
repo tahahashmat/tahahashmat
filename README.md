@@ -14,8 +14,6 @@
     System.out.println(name + age + occupation + program + fav_language + fav_sport + fun_fact);
     
     }
-    
-![](https://komarev.com/ghpvc/?username=tahahashmat&style=flat-square&color=brightgreen)
-    
+        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahahashmat&show_icons=true&theme=radical&hide_border=true&langs_count=4)](https://github.com/anuraghazra/tahahashmat)
 [![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahahashmat&show_icons=true&theme=radical&hide_border=true)](https://github.com/tahahashmat/tahahashmat) 
