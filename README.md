@@ -16,4 +16,4 @@
     }
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahahashmat&show_icons=true&theme=tokyonight&hide_border=true&langs_count=4)](https://github.com/anuraghazra/tahahashmat)
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahahashmat&show_icons=true&theme=radical&hide_border=true)](https://github.com/tahahashmat/tahahashmat) 
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahahashmat&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/tahahashmat/tahahashmat) 
