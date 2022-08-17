@@ -9,7 +9,7 @@
     String program = "Software Engineering ";
     String fav_language = "Java";
     String fav_sport = "Soccer";
-    String fun_fact = "I went viral on social media for being one of the kids in the I’ll sacrifice my life for Pakistan meme!!"
+    String fun_fact = "I went viral on social media for being a meme!!"
     
     System.out.println(name + age + occupation + program + fav_language + fav_sport + fun_fact);
     
