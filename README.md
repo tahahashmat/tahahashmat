@@ -6,7 +6,7 @@
     String name = "Taha Hashmat ";
     int age = 21;
     String occupation = "Software Developer";
-    String languages_using = "Languages I'm currently using: C#, ASP.NET, SQL";
+    String languages_using = "Languages I'm currently using: C#, ASP.NET, Microsoft SQL Server and PowerBI";
     String fav_language = "Java";
     String fav_sport = "Soccer";
     String fun_fact = "I once went viral on social media for being a meme!!"
